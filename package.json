@@ -1,0 +1,1 @@
+{"name": "quest-restaurant-management-system", "version": "1.0.0", "description": "Restaurant Management System", "main": "backend/server.js", "scripts": {"start": "node backend/server.js"}, "dependencies": {"express": "^4.17.1"}}
